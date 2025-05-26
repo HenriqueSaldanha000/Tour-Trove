@@ -1,6 +1,7 @@
 # Tour Trove
 
-Esta aplicação tem como objetivo tornar a experiência de visitas a museus mais interessante e interativa, utilizando tecnologias avançadas de inteligência artificial para enriquecer a interação dos usuários com as exposições.
+Esta aplicação tem como objetivo tornar a experiência de visitas a museus mais interessante e interativa, utilizando tecnologias avançadas de inteligência artificial para enriquecer a interação dos usuários com as exposições.  
+**O projeto foi desenvolvido em equipe como parte de um trabalho acadêmico e foi selecionado entre os melhores da turma.**
 
 ---
 
